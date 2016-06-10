@@ -21,6 +21,6 @@ test_svp_SOURCES = test_svp.cpp
 test_bkz_SOURCES = test_bkz.cpp
 # Perfpublisher script interaction - AC 2016/06/09
 perfpublisher:
-	+chmod 777 ./perfpublisher 	
+	+chmod 777 ./perfpublisher.sh 	
 	+./perfpublisher.sh "$(PERFPUBLISHERFILE)" "$(TESTS)" "$(CXX)"
 check_PROGRAMS = $(TESTS)
