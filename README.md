@@ -1,3 +1,8 @@
+# The FPLLL Library
+
+[![Build Status](https://ci.inria.fr/linbox/buildStatus/icon?job=FPLL)](https://ci.inria.fr/linbox/job/FPLLL/) : FPLLL
+
+
 # fplll #
 
 fplll contains several algorithms on lattices that rely on floating-point computations. This
