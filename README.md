@@ -1,6 +1,6 @@
 # The FPLLL Library
 
-[![Build Status](https://ci.inria.fr/linbox/buildStatus/icon?job=FPLL)](https://ci.inria.fr/linbox/job/FPLLL/) : FPLLL
+[![Build Status](https://ci.inria.fr/linbox/buildStatus/icon?job=FPLLL)](https://ci.inria.fr/linbox/job/FPLLL/) : FPLLL
 
 
 # fplll #
