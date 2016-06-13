@@ -65,6 +65,11 @@ commands under `/usr/local/bin`, include files under `/usr/local/include`, etc. 
 installation directory name other than `/usr/local` by giving `./configure` the option
 `--prefix=dirname`.  Run `./configure --help` for further details.
 
+## Availability
+
+From github.com/linbox-team
+
+
 ## Check ##
 
 Type
